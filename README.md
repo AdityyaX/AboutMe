@@ -12,9 +12,15 @@ Published an NPM package for Git profile switching with more than 500 downloads,
 ## 🌟 Open Source Contributor
 Made significant contributions to Music Blocks, dockerized the application, and improved workflow, which helped many contributors:
 - 🔄 [Dockerize musicblocks v4](https://github.com/sugarlabs/musicblocks/pull/3795)
-- 🛠️ [UI Fix in Actions Tab](https://github.com/sugarlabs/musicblocks/pull/3753)
-- 🔧 [Fix MB4 Toolbar Hover](https://github.com/sugarlabs/musicblocks/pull/3582)
-- 📝 [Documentation Update](https://github.com/sugarlabs/musicblocks/pull/3572)
+- 🛠️ [Stale worksflow added ](https://github.com/sugarlabs/musicblocks/pull/3753)
+- 🔧 [Enhance Error Handling for localStorage in DOM Initialization](https://github.com/sugarlabs/musicblocks/pull/3582)
+- 📝 [Updated Copyright Year in Comments js/loader.js](https://github.com/sugarlabs/musicblocks/pull/3572)
 
-## 🚀 College Tech Lead
+## 💻 DSA Enthusiast
+Solved 200+ Data Structures and Algorithms questions across multiple competitive programming platforms, demonstrating strong problem-solving skills and algorithmic thinking.
+
+🚀 College Tech Lead
 Hosted several applications at my college, serving more than 1,000 active users as Web Development Lead for the largest technical society.
+🏆 Led development of websites for the annual sports fest
+🖥️ Created platforms for open-source events
+🌐 Built web applications for pan-India technical events with my team
